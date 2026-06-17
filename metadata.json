@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Portfolio",
+  "description": "A fullscreen cinematic professional portfolio website for Tran Quoc Huy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
