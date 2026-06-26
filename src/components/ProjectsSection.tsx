@@ -40,7 +40,8 @@ export default function ProjectsSection({ className }: { className?: string }) {
     "1201843568",
     "1201844159",
     "1201844478",
-    "1201846487"
+    "1201846487",
+    "1204928077"
   ];
 
   // Styles injected for Liquid Box UI

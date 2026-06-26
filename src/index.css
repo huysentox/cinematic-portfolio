@@ -466,11 +466,9 @@ p { font-weight: 400; font-size: 1.05rem; line-height: 1.7; color: #475569; marg
     line-height: 1.7;
     max-width: 100%; /* Trải rộng hết cột */
     margin-bottom: 30px;
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
-    border-radius: 15px;
-    border: 1px solid rgba(255, 255, 255, 0.08); /* Viền mờ xung quanh */
+    background-color: #0B1120;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
     padding: 25px 30px;
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
 }
@@ -480,11 +478,9 @@ p { font-weight: 400; font-size: 1.05rem; line-height: 1.7; color: #475569; marg
 }
 
 .goal-box-expanded {
-    background: rgba(255, 255, 255, 0.05); 
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
-    border-radius: 15px;
-    border: 1px solid rgba(255, 255, 255, 0.08); 
+    background-color: #0B1120;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05); 
     border-left: 8px solid #00A86B !important; 
     padding: 25px 30px;
     max-width: 100%; /* Trải rộng hết cột */
